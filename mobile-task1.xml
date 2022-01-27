@@ -1,0 +1,20 @@
+<Mobiles>
+	<Mobile id= "11">
+		<Name> Samsung </Name>
+		<Unit_Price> 35000 </Unit_Price>
+		<Stock> 50 </Stock>
+		<Status> 1 </Status>
+	</Mobile>
+	<Mobile id = "20">
+			<Name> HTC </Name>
+		<Unit_Price> 65300 </Unit_Price>
+		<Stock> 35 </Stock>
+		<Status> 0 </Status>
+	</Mobile>
+	<Mobile id = "20">
+			<Name> HTC </Name>
+		<Unit_Price> 65300 </Unit_Price>
+		<Stock> 35 </Stock>
+		<Status> 1 </Status>
+	</Mobile>
+</Mobiles>
